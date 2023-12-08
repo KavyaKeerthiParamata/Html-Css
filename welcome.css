@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+video{
+    width: 100%;
+}
+/* h1{
+    color: brown;
+    font-size: 50px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+p{
+    max-width: 100px;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+h1{
+    background-color:antiquewhite;
+    max-width: 200px;
+   
+    padding: 10px 20px;
+    margin: 10px 10px;
+}
